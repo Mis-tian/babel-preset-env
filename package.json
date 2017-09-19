@@ -77,7 +77,7 @@
     "codecov": "^2.2.0",
     "compat-table": "kangax/compat-table#b8477cc0f6d65c000c46213e654d19f350de9fa8",
     "eslint": "^3.17.1",
-    "eslint-config-babel": "^6.0.0",
+    "eslint-config-babel": "^7.0.2",
     "eslint-plugin-flowtype": "^2.33.0",
     "flow-bin": "^0.46.0",
     "fs-extra": "^3.0.1",

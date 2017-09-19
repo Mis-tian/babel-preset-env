@@ -2487,9 +2487,9 @@ esdown@latest:
   version "1.1.16"
   resolved "https://registry.yarnpkg.com/esdown/-/esdown-1.1.16.tgz#0ef0382fcabd14db10adfbeccf109257d2838d9e"
 
-eslint-config-babel@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-babel/-/eslint-config-babel-6.0.0.tgz#66feedf6ce6e04abe585cec1a65b5bcc96bed50a"
+eslint-config-babel@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-babel/-/eslint-config-babel-7.0.2.tgz#cbde74f61cee087d8cd6e607fcfa087869a02d99"
 
 eslint-plugin-flowtype@^2.33.0:
   version "2.33.0"
